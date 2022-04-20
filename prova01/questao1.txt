@@ -1,0 +1,5 @@
+Linha 15: seletor id não inicializou com #.
+Linha 17: Tag <strong> não fechou com </strong>.
+Linha 25: função return colocar apenas return nome.
+
+
