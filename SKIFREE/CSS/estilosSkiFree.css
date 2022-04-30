@@ -1,0 +1,174 @@
+.para-direita {
+   background-image: url(skier.png);
+   background-position: -25px -6px;
+   width: 22px;
+   height: 28px;
+}
+
+.para-esquerda {
+   background-image: url(skier.png);
+   background-position: -26px -43px;
+   width: 22px;
+   height: 28px;
+}
+
+.para-frente {
+   background-image: url(skier.png);
+   background-position: -67px -2px;
+   width: 15px;
+   height: 32px;
+}
+
+.morto {
+    background-image: url(skier.png);
+    background-position: -240px -0px;
+    width: 32px;
+    height: 34px;
+}
+
+.caido {
+    background-image: url(skier.png);
+    background-position: -81px -80px;
+    width: 32px;
+    height: 29px;
+}
+
+.arvore {
+   background-image: url(obstacles.png);
+   background-position: -0px -31px;   
+   width: 28px;
+   height: 32px;   
+   position: absolute;
+    display: block;
+}
+
+.arbusto-em-chamas {
+    background-image: url(obstacles.png);
+    background-position: -23px -95px;
+    width: 25px;
+    height: 35px;
+    position: absolute;
+    display: block;
+}
+
+.rocha {
+    background-image: url(obstacles.png);
+    background-position: -28px -31px;
+    width: 28px;
+    height: 32px;
+    position: absolute;
+    display: block;
+}
+
+.toco-de-arvore {
+    background-image: url(obstacles.png);
+    background-position: -252px -31px;
+    width: 17px;
+    height: 32px;
+    position: absolute;
+}
+
+.arvore-grande {
+    background-image: url(obstacles.png);
+    background-position: -94px -67px;
+    width: 34px;
+    height: 63px;
+    position: absolute;
+}
+
+.cachorro {
+    background-image: url(skier.png);
+    background-position: -45px -204px;
+    width: 21px;
+    height: 19px;
+    position: absolute;
+}
+
+.cogumelo {
+    background-image: url(obstacles.png);
+    background-position: -269px -50px;
+    width: 12px;
+    height: 13px;
+    position: absolute;
+}
+
+@keyframes monstro-comendo {
+    6% {
+        background-image: url(skier.png);
+        background-position: -32px -112px;
+        width: 32px;
+        height: 43px; 
+    }
+    12% {
+        background-image: url(skier.png);
+        background-position: -64px -112px;
+        width: 32px;
+        height: 43px; 
+    }
+    20% {
+        background-image: url(skier.png);
+        background-position: -96px -112px;
+        width: 32px;
+        height: 43px;
+    }
+    30% {
+        background-image: url(skier.png);
+        background-position: -122px -112px;
+        width: 32px;
+        height: 43px;
+    }
+    50% {
+        background-image: url(skier.png);
+        background-position: -156px -112px;
+        width: 32px;
+        height: 43px;
+    }
+    60% {
+        background-image: url(skier.png);
+        background-position: -188px -112px;
+        width: 32px;
+        height: 43px;
+    }
+    80% {
+        background-image: url(skier.png);
+        background-position: -218px -112px;
+        width: 32px;
+        height: 43px;
+    }
+    100%{
+        background-image: url(skier.png);
+        background-position: -243px -112px;
+        width: 32px;
+        height: 43px;
+    }
+}
+
+
+.monstro-das-neves {
+    background-image: url(skier.png);
+    background-position: -32px -112px;
+    width: 32px;
+    height: 43px;
+    position: absolute;
+    
+}
+
+
+#montanha {
+   border: 1px solid black;
+   position: relative;
+   overflow: hidden;
+}
+
+#skier {
+   position: absolute;
+}
+
+#painel {
+    position: fixed;
+    top: 10px;
+    left: 320px;
+}
+
+
+
