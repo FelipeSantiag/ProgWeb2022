@@ -92,65 +92,6 @@
     position: absolute;
 }
 
-@keyframes monstro-comendo {
-    6% {
-        background-image: url(skier.png);
-        background-position: -32px -112px;
-        width: 32px;
-        height: 43px; 
-    }
-    12% {
-        background-image: url(skier.png);
-        background-position: -64px -112px;
-        width: 32px;
-        height: 43px; 
-    }
-    20% {
-        background-image: url(skier.png);
-        background-position: -96px -112px;
-        width: 32px;
-        height: 43px;
-    }
-    30% {
-        background-image: url(skier.png);
-        background-position: -122px -112px;
-        width: 32px;
-        height: 43px;
-    }
-    50% {
-        background-image: url(skier.png);
-        background-position: -156px -112px;
-        width: 32px;
-        height: 43px;
-    }
-    60% {
-        background-image: url(skier.png);
-        background-position: -188px -112px;
-        width: 32px;
-        height: 43px;
-    }
-    80% {
-        background-image: url(skier.png);
-        background-position: -218px -112px;
-        width: 32px;
-        height: 43px;
-    }
-    100%{
-        background-image: url(skier.png);
-        background-position: -243px -112px;
-        width: 32px;
-        height: 43px;
-    }
-}
-
-
-.monstro-das-neves {
-    background-image: url(skier.png);
-    background-position: -32px -112px;
-    width: 32px;
-    height: 43px;
-    position: absolute;
-    
 }
 
 
