@@ -1,1 +1,3 @@
+Comentário: Faltou explicar cada componente do padrão MVC. Nota 1.2
+
 O MVC Tem como proposito seprar as camadas de uma aplicação em diferentes niveis. Em portugues significaca MODELO, VISÃO, e CONTROLE; Esse padrão de arquitetura define uma divisão tendo cada uma uma uma função especifica e conectadas entre si. O principal objetivo com isso é faciliar a compreensão e a manutenção.
