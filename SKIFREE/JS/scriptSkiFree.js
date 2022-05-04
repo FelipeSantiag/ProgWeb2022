@@ -11,7 +11,7 @@
     const PROB_TOCO_ARV = 1.2;
     const PROB_ARVORE_GRANDE = 1;
     const PROB_CACHORRO = 0.5;
-    const PROB_COGUMELO = 0.1;
+    const PROB_COGUMELO = 3;
     
 
     var gameLoop;
